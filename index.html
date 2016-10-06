@@ -2,15 +2,54 @@
 <html lang="en">
 
 <head>
-  <title>Favorite Things</title>
-  <meta charset="utf-8" />
-  <link rel="stylesheet" href="style.css" />
+	<title>Favorite Things</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
 
-  <p>Replace me with your favorite thing HTML.</p>
+	<header>
+		<h1>Favorite things?</h1>
+	</header>
 
+	<h1>Click <span id="intro">HERE</span> to see a few of <i>my</i> favorite things
+	</h1>
+	<div id="favorites">
+		<section>
+			<span id="music"><h3>Music</h3></span>
+			<img src="images/tunes.jpg" alt="music">
+			<p>Whether listening to or trying to create it, music has been a passion for as long as I can remember. I remember <i>begging</i> my mom as a young child to put on "Another One Bites the Dust" by Queen. I continue to value music as a lifelong hobby. It helps define different times in my life, including relationships and remarkable memories.</p>
+		</section>
+		<section>
+			<span id="rocksmith"><h3>Rocksmith</h3></span>
+			<img src="images/rocksmith.jpg" alt="Rocksmith Game">
+			<p>I play videogames, but sometimes I get that nagging feeling I should be doing something more productive. Not so with Rocksmith. Unlike other rhythm games, you use a real guitar as input to play real songs. I picked it up in my 30s and after a few years, thanks to Rocksmith, I can now actually call myself a guitarist.</p>
+		</section>
+		<section>
+			<span id="classiclit"><h3>Classic Literature</h3></span>
+			<img src="images/maugham.jpg" alt="Classic Lit">
+			<p>When I have time to read fiction I like to read the classics. It's like traveling through time and seeing what life was like at the time it was written. It's hard to pick a favorite but The Razor's Edge by W. Somerset Maugham is up there.</p>
+		</section>
+		<section>
+			<span id="astronomy"><h3>Astronomy</h3></span>
+			<img src="images/cern.jpg" alt="Astronomy">
+			<p>I was first introduced to astronomy and what lies beyond our own planet by a great teacher in public school at a young age. I'm still in awe at the size and scope of both space and time. I don't pretend to know much about things like quantum mechanics and dark matter but they're still fun to <i>try</i> and think about.</p>
+		</section>
+		<section>
+			<span id="smoothies"><h3>Smoothies</h3></span>
+			<img src="images/smoothie.jpg" alt="smoothie">
+			<p>The older I get, the more I believe that what you put in your body has a lot to do with what you ultimately get out of it. I have such a hard time getting a full day's serving of fruits and vegetables unless I pulverise and consume them in liquid form.
+		</section>
+	</div>
+
+	<!-- Link to jQuery using a CDN -->
+	<script src="http://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<!-- jQuery if offline -->
+	<script>
+		window.jQuery || document.write('<script src="jquery-3.1.1.min.js"><\/script>');
+	</script>
+	<script src="script.js"></script>
 </body>
 
 </html>
