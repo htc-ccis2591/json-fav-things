@@ -41,3 +41,14 @@ $("section").on('click', function () {
 .hide {
 	display: none;
 }
+
+var myHtml = "";
+	$.each($favorites, function (i, item) {
+		myHtml += "<div>" + item + "</div>";
+	});
+	$(item).html(myHtml);
+
+	//$("img").hide();
+	var $favorites = $('favorites');
+	var $allHeadings = $favorites.find('h3');
+	console.log($allHeadings);
