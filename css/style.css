@@ -1,0 +1,100 @@
+.container{
+   background-color: #000000;
+   margin:auto;
+    width: auto;
+}
+
+
+.row{
+    width: auto;  
+    margin: 100px;
+    margin-top: 10px;
+    margin-left: 100px;  
+    background-color: #000000;
+    
+}
+
+
+#favoritethingbutton{
+    display: block;
+    font-family: Arial, Sans-serif;
+    font-size: 32px;
+    color:white;
+    background-color: Black;
+    padding: 20px;
+    margin-top: 300px;
+    width: 100%;
+}
+
+
+
+ul{
+    list-style-type:square;
+    font-family: Arial, sans-serif;
+    
+}
+
+#johnsonmez, #quake, #edm{
+    display: block;
+    width: 405px;
+    height: 300px;
+    margin-left: 90px;
+    
+}
+
+
+h2 {
+   padding:10px;
+    padding-bottom: 10px;
+   font-family: Arial, Sans-serif; 
+   color: #000000;
+   background-color: #C0C0C0;
+   text-align: center;
+   border-radius: 20px;
+   margin: 20px;
+   margin-top: 10px;
+}
+
+
+
+figcaption{
+    color:#FFFFFF;
+    font-style: italic;
+    text-align: center;
+    color: #000000;
+    background-color: #C0C0C0;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 100px;
+}
+
+ul, li{
+    font-family: Arial,sans-serif;
+    color:#FFFFFF;
+    margin-left: 20px;
+}
+
+
+/* Below is the new code need to modify for the new javascript implementation*/
+h2, iframe, .row, .container {
+    display: block;
+    
+}
+
+p{
+    color: #000000;
+       padding:10px;
+    padding-bottom: 10px;
+   font-family: Arial, Sans-serif; 
+   background-color: #C0C0C0;
+   text-align: center;
+   margin: 100px;
+   margin-top: 30px;
+}
+
+iframe {
+        width: 405px;
+    height: 300px;
+    margin-left: 90px;
+}
