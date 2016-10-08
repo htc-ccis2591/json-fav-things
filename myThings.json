@@ -1,39 +1,43 @@
+{
 
-{
-    
     "myThings": [
-        
-{
-    "subject": "Software Development",
-    "description": "When I was working as a technical manager one of our duties was to take a massive amount of data and input it into a web form. This was a 2-3 hour duty. Myself and another peer decided to try and automate this task through applescript and using the microsoft office libraries available. A few months later we had something production ready and everyone benefitted from that effort. It turned a large portion of our duty down to about 5 minutes and it would run in the background so we could spend time with our people on the floor rather than seperated between our cubes.",
-    "videoID" : "EiR-oQ0QnX8"
-        },
-        
+
         {
-            
+            "subject": "Software Development",
+            "description": "When I was working as a technical manager one of our duties was to take a massive amount of data and input it into a web form. This was a 2-3 hour duty. Myself and another peer decided to try and automate this task through applescript and using the microsoft office libraries available. A few months later we had something production ready and everyone benefitted from that effort. It turned a large portion of our duty down to about 5 minutes and it would run in the background so we could spend time with our people on the floor rather than seperated between our cubes.",
+            "videoID": "EiR-oQ0QnX8",
+            "figText": "John Sonmez founder of Simple Programmer, blogger and developer."
+        },
+
+        {
+
             "subject": "Competitive Gaming",
-        "description": "Competitive gaming is on the rise and shows no signs of slowing down. The best way to describe this is to play video games in tournaments for large cash prizes against the best people in the world. This avenue is very much rewarding but isn't a career yet like it is in Korea with StarCraft. StarCraft is Korea's national sport! Enjoy the video of what I play competitively which is quake and rocket league!",
-            "videoID" : "8--FybgMgto"
+            "description": "Competitive gaming is on the rise and shows no signs of slowing down. The best way to describe this is to play video games in tournaments for large cash prizes against the best people in the world. This avenue is very much rewarding but isn't a career yet like it is in Korea with StarCraft. StarCraft is Korea's national sport! Feel free to enjoy a video of a pro quake competition that happened recently",
+            "videoID": "8--FybgMgto",
+            "figText": "Rapha vs. Evil Quakecon 2016 Dallas,TX"
         },
-        
+
         {
-            "subject": "EDM and Metal Music", 
-            "description":"What ever your choice if its dubstep, trance, trap, psytrance, house, techno.....the list goes on. EDM music has been around for longer than most think. Late 80s to be exact. These days EDM music is getting bigger and bigger like the guy in the video bassnectar more of these folks are coming more and more.",
-            "videoID" : "IOl7bN54t0o"
+            "subject": "Music",
+            "description": "What ever your choice if its dubstep, trance, trap, psytrance, house, techno.....the list goes on. EDM music has been around for longer than most think. Late 80s to be exact. These days EDM music is getting bigger and bigger like the guy in the video bassnectar more of these folks are coming more and more.",
+            "videoID": "IOl7bN54t0o",
+            "figText": "Bassnectar DJ'ing live."
         },
         {
-            "subject": "My nuclear family",
+            "subject": "My family",
             "description": "This is my family. My wife Rebecca is a science teacher at Brooklyn Middle School and she teachs 7th and 8th grade physical and life science. My son Braeden started school this year with Kindergarten he is enjoying every minute of it and within a couple of weeks he started reading! Chloe is the most independent 4 year old I've seen on this earth. She is sweet when she wants but get on her bad side and it's really hard to get her happy again. Yes the red hair matches the temper.",
-            "videoID" : "gqj29iEZIIk"
+            "videoID": "gqj29iEZIIk",
+            "figText": "Braeden and Chloe playing at the park."
         },
-        
+
         {
             "subject": "Autos",
             "description": "I enjoy automobiles very much! I am very much a Honda/Acura fan. I like the others too but I feel like you get the best value with a Honda. My favorite autos are the 2016 Acura NSX, 2007 Acura TL Type-S, Lexus ISF, 2016 BMW 6 series and my absolute favorite the Tesla Model S. ",
-            "videoID" : "dwD-WeY6Ivs"
-            
+            "videoID": "dwD-WeY6Ivs",
+            "figText": "2017 Acura NSX"
+
         }
-    
+
     ]
-    
+
 }
