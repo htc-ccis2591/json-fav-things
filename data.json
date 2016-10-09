@@ -1,0 +1,18 @@
+{
+    "favoriteThings": [
+        {
+            "title": "VideoGame",
+            "description": "I enjoy playing Role Playing Games(RPG) such as the Final Fantasy series, First Person Shooting/Shooter(FPS) games such as Call of Duty(COD) and Black Ops(BO), arcade games such as Metal Slug"
+        },
+
+        {
+            "title": "Movie",
+            "description": "I enjoyy watching movies of all genres, action, horror, comedies, documentaries, drama, sci-fi, thrillers, and anime"
+        },
+
+        {
+            "title": "Food",
+            "description": "I love, LOVE food! I mean, who doesn't!? I enjoy food off all nationalities from Asian, Mexican, Thai, Greek, Italian, and American food."
+        }
+    ]
+}
