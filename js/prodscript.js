@@ -1,10 +1,11 @@
 //Start of the document
 $(document).ready(function () {
+    
     var addStuffHere = "#addstuff";
     var subjectHeaders = 'h2';
 
-
-    var createMyFavThings = function (subject, description, videoID, myClass) {
+    var createMyFavThings = function (subject, description, videoID, figText, myClass) {
+        
         var favVideoID = "#" + videoID;
 
         $(addStuffHere).append('<div class="row">');
@@ -18,7 +19,10 @@ $(document).ready(function () {
         $(addStuffHere).append('<div id="video ' + videoID + ' " class="col-md-6">');
         $(favVideoID).append('<iframe class="' + myClass + '" src="https://www.youtube.com/embed/' + videoID + '"></iframe>');
         $('iframe').hide();
+        $(addStuffHere).append('<figcaption class="' + myClass + '">' + figText + '</figcaption');
+        $('figcaption').hide();
 
+        //Click events
 
         $('#Programming').click(function () {
             $('.softwaredev').show();
@@ -64,7 +68,7 @@ $(document).ready(function () {
     $.getJSON("myThings.json", function (data) {
         var item;
         $.each(data.myThings, function (index, item) {
-            createMyFavThings(item.subject, item.description, item.videoID, item.myClass);
+            createMyFavThings(item.subject, item.description, item.videoID, item.figText, item.myClass);
         });
     });
 
