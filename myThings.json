@@ -1,0 +1,48 @@
+{
+
+    "myThings": [
+
+        {
+            "subject": "Programming",
+            "description": "I always thought about becoming a programmer. I never thought I could do it until one day I had an idea me and some guys at an old job of ours decided to learn a basic scripting language called AppleScript and automate some tasks. This was my first foray into programming and I loved it. That's why I'm here now I can't get enough and I would rather develop something rather than watch tv. I now follow John Sonmez a Microsoft MVP in C# and a nationally known name. He bills over 600 dollars per hour.",
+            "videoID": "EiR-oQ0QnX8",
+            "figText": "John Sonmez founder of Simple Programmer, blogger and developer.",
+            "myClass" : "softwaredev"
+        },
+
+        {
+
+            "subject": "Gaming",
+            "description": "I used to be a competitive gamer and play more on the casual side now but I still enjoy competitive gaming. I like to play Rocket League and Quake mostly. I do play some other titles such as Reflex, The Witcher and Doom. If you're not sure what competitive gaming is enjoy the video below!",
+            "videoID": "8--FybgMgto",
+            "figText": "Rapha vs. Evil Quakecon 2016 Dallas,TX",
+            "myClass" : "compgaming"
+        },
+
+        {
+            "subject": "Music",
+            "description": "What ever your choice if its dubstep, trance, trap, psytrance, house, techno.....the list goes on. EDM music has been around for longer than most think. Late 80s to be exact. These days EDM music is getting bigger and bigger like the guy in the video bassnectar more of these folks are coming more and more.",
+            "videoID": "IOl7bN54t0o",
+            "figText": "Bassnectar DJ'ing live.",
+            "myClass" : "musiccontent"
+        },
+        {
+            "subject": "Family",
+            "description": "I have to list my family as one of my favorite things. I am married and have two children. My wife's name is Rebecca Andreasen and our children's names are Braeden whom is five and Chloe whom is four. At this time of Chloe's dance recital she was just three years old.",
+            "videoID": "gqj29iEZIIk",
+            "figText": "Chloe's first dance recital",
+            "myClass" : "andreasenfamily"
+        },
+
+        {
+            "subject": "Autos",
+            "description": "I enjoy automobiles very much! I am very much a Honda/Acura fan. I like the others too but I feel like you get the best value with a Honda. My favorite autos are the 2016 Acura NSX, 2007 Acura TL Type-S, Lexus ISF, 2016 BMW 6 series and my absolute favorite the Tesla Model S. ",
+            "videoID": "dwD-WeY6Ivs",
+            "figText": "2017 Acura NSX",
+            "myClass" : "luxury"
+
+        }
+
+    ]
+
+}
