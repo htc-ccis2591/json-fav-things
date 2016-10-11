@@ -14,7 +14,7 @@
         },
 
 		{
-			"thing": "Classic Literature",
+			"thing": "Literature",
 			"image": "images/maugham.jpg",
 			"info": "When I have time to read fiction I like to read the classics. It's like traveling through time and seeing what life was like at the time it was written. It's hard to pick a favorite but The Razor's Edge by W. Somerset Maugham is up there."
 		},
@@ -30,5 +30,7 @@
 			"image": "images/smoothie.jpg",
 			"info": "The older I get, the more I believe that what you put in your body has a lot to do with what you ultimately get out of it. I have such a hard time getting a full day's serving of fruits and vegetables unless I pulverise and consume them in liquid form."
 		}
+
+
 	]
 }
