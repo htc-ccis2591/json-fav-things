@@ -4,18 +4,19 @@ nav,
 section,
 p,
 h1,
-h2 {
+h2,
+h3 {
 	display: block;
 	text-align: center;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 400px;
+	margin-right: 400px;
 }
 
 body {
 	font-family: Verdana, Geneva, sans-serif;
-	color: #45546E;
+	color: #012C34;
 	font-size: 20px;
-	background: #89919F;
+	background: #437983;
 }
 
 .hide {
