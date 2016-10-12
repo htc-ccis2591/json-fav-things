@@ -1,0 +1,29 @@
+{   "favoriteThings":
+    [
+        {
+            "thing" : "1969 Roadrunner",
+            "description" : "The 1969 Plymouth Roadrunner is my favorite car of all time. There was nothing more exciting than to here the rumble of the engine as one stood by the back of the car and marveled at the dual chrome exhaust tips. Exhilration and adrenaline would pour down your veins when the engine would be let loose to push you back into your seat.",
+            "imageURL" : "images/roadrunner.jpg"
+        },
+        {
+            "thing" : "Fresh cut grass",
+            "description" : "The smell of fresh cut grass has always made me happy",
+            "imageURL" : "images/fresh-cut-grass.jpg"
+        },
+        {
+            "thing" : "Star Trek movies",
+            "description" : "Star Trek movies are exciting and they keep you on the edge of your seat.",
+            "imageURL" : "images/star-trek-movies.jpg"
+        },
+        {
+            "thing" : "White sandy beaches",
+            "description" : "Walking on a white sandy beach in Florida makes me happy.",
+            "imageURL" : "images/florida-beaches.jpg"
+        },
+        {
+            "thing" : "Summer",
+            "description" : "Summer brings many things.  Warm days, thunderstorms, and flowers are just a few.",
+            "imageURL" : "images/minnesota-summer.jpg"
+        }
+    ]
+}
