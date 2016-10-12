@@ -1,28 +1,24 @@
- {
+{
     "questions": [
         {
             "question": "What is Pho?",
             "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
         },
         {
-            "question": "What is Pho?",
-            "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
+            "question": "Where is Pho?",
+            "answer": "<p>Pho is a popular street food in Vietnam and the specialty of a number of restaurant chains around the world. In the aftermath of the Vietnam War, Vietnamese refugees brought pho to many countries. Restaurants specilizing in pho appeared in numerous Asian enclaves and Little Saigons, such as in Paris, and in major cities in the United States, Canada, and Australia.</p>"
         },
         {
-            "question": "What is Pho?",
-            "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
+            "question": "Why is Pho?",
+            "answer": "<p>The broth for beef pho is generally made by simmering beef bones, oxtails, flank steak, charred onion, charred ginger and spices give an intense flavor that are addicted.</p>"
         },
         {
-            "question": "What is Pho?",
-            "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
+            "question": "Who make Pho?",
+            "answer": "<p>Pho was originally sold at dawn and dusk by roaming street vendors, who shouldered mobile kitchens on carrying poles.From the pole hung two wooden cabinets, one housing a cauldron over a wood fire, the other storing noodles, spices, coodware, and space to prepare a bowl of pho.</p>"
         },
         {
-            "question": "What is Pho?",
-            "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
-        },
-        {
-            "question": "What is Pho?",
-            "answer": "<p>Pho is a Vietnamese noodle soup consisting of broth, rice noodles, a few herbs, and meat, primarily made with either beef or chicken. There are two main styles of pho in Vietnam. The Hanoi and Saigon styles of pho differ by noodle width, sweetness of broth, and choice of herbs.</p>"
+            "question": "When did Pho?",
+            "answer": "<p>Pho originated in the early 20th century in northern Vietnam, and was popularized throughout the rest of the world by refugees after the Vietnam War. Because pho's origins are poorly documented, there is significant disagreement over the cultural influences that led to its development in Vietnam, as well as the etymology of the word itself.</p>"
         }
     ]
 }
