@@ -22,6 +22,7 @@ var createQuestion = function (question, answer) {
     $('li').on("click", function() {
         //$(this).next().siblings().next().removeAttr("style");
         $(this).first().children().next().toggle();
+        Console.log($(this).first().children().next().text())
     });
 };
 
