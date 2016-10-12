@@ -1,0 +1,29 @@
+{
+    "favThings": [
+        {
+            "name": "Music",
+            "description": "My favorite music genres are; Metal, Metalcore, Deathcore, Dubstep, Drum&Bass, Trap, and Riddim. Too many bands/artists to type!",
+            "image": "music.jpg"
+        },
+        {
+            "name": "Games",
+            "description": "My favorite game genres are; Action/Adventure, Action, Strategy, RPG, MMORPG, Sandbox, Fantasy, and Hack and Slash. Once again, too many specific games to type.",
+            "image": "games.jpg"
+        },
+        {
+            "name": "Movies",
+            "description": "My favorite movie genres are; Action, Comedy, Adventure, Comics(DC, Marvel, Etc.), Mystery, Horror, Gore, and Fantasy, Sci-Fi, and Thriller.",
+            "image": "movies.jpg"
+        },
+        {
+            "name": "TV Shows",
+            "description": "(Exactly the same as movies) My favorite TV Show genres are; Action, Comedy, Adventure, Comics(DC, Marvel, Etc.), Mystery, Horror, Gore, and Fantasy, Sci-Fi, and Thriller.",
+            "image": "tv.jpg"
+        },
+        {
+            "name": "Friends",
+            "description": "Even though they can be a huge pain, they are also very important to me and I would give the world for my friends.",
+            "image": "friends.jpg"
+        }
+        ]
+}
