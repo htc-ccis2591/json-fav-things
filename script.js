@@ -17,7 +17,7 @@ $('ul').hide();
 //append question
 var createQuestion = function (question, answer) {
     $('ul').append('<li><h3>' + question +'</h3>' + answer +'</li>');
-    $('h3').siblings().next().hide();
+    $('h3').next().hide();
     $('h3').css('cursor', 'pointer');
     $('li').on("click", function() {
         $(this).first().children().next().toggle();
