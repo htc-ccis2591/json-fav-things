@@ -1,0 +1,24 @@
+footer,
+header,
+nav,
+section,
+p,
+h1,
+h2,
+h3 {
+	display: block;
+	text-align: left;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #012C34;
+	font-size: 24px;
+	background: #437983;
+}
+
+.hide {
+	display: none;
+}
