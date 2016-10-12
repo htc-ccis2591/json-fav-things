@@ -1,0 +1,55 @@
+{
+        "items": [
+
+                {
+                        "favorite": "pears"
+                        , "favoritedescription": "just get sick of food. notyhing ever tastes good anymore.  we just eating like animals. "
+                        , "image": "f.jpg"
+        },
+
+                {
+                        "favorite": "air"
+                        , "favoritedescription": "not worth breathing"
+                        , "image": "air.jpg"
+
+
+        },
+
+                {
+                        "favorite": "jakets"
+                        , "favoritedescription": "about the only thing that protects me."
+                        , "image": "jacket.png"
+
+
+        }
+
+
+
+
+                
+                , {
+                        "favorite": "d2l"
+                        , "favoritedescription": "so great to login to here"
+                        , "image": "d.png"
+
+
+        }
+
+
+
+
+                
+                , {
+                        "favorite": "outerspace"
+                        , "favoritedescription": "unharassed"
+                        , "image": "out.jpg"
+        }
+
+
+
+
+
+        ]
+
+
+}
