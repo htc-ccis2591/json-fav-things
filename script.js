@@ -9,8 +9,6 @@ $(function () {
 		$('h1').on('click', function () {
 			$("#favorites").slideDown(4000);
 			$("p, img").hide();
-
-
 		});
 	};
 
@@ -34,14 +32,12 @@ $(function () {
 		});
 		$('h3').on('click', function () {
 			$(this).siblings().toggle(500);
-
 		});
 		$('img').css("display", "block");
 		$('img').css("margin", "auto");
 		$('p').css("color", "#D4CA6A");
 
 		//$("#Literature:nth-child(3)").replaceWith("<h3>Classic Literature</h3>");
-
 
 	});
 
