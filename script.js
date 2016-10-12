@@ -17,10 +17,9 @@ $('ul').hide();
 //append question
 var createQuestion = function (question, answer) {
     $('ul').append('<li><h3>' + question +'</h3>' + answer +'</li>');
-    $('li').first().children().next().hide();
+    //hide p
     $('h3').css('cursor', 'pointer');
     $('li').on("click", function() {
-        //$(this).next().siblings().next().removeAttr("style");
         $(this).first().children().next().toggle();
     });
 };
