@@ -1,0 +1,26 @@
+#favorite-things {
+    display: none;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bolder;
+    color: #FF6600;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    font-style: italic;
+}
+
+p {
+    color: #FF0000;
+}
